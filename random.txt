@@ -1,2 +1,1 @@
-some new text line 1
-some new text line 2
+some new text version 2
